@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## TrustTrail frontend foundation
+- Keep public, customer, and admin experiences as separate TanStack Start routes sharing semantic visual tokens and layout primitives, because they have different information architectures but one product identity.
+- Keep customer and admin entry screens explicitly labeled as planned until authenticated functionality exists, because simulated access would misrepresent availability.

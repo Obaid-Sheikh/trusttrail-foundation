@@ -477,7 +477,7 @@ function Index() {
               size="lg"
               className="h-12 w-fit bg-background px-6 text-foreground hover:bg-background/90"
             >
-              <Link to="/customer">
+              <Link to="/get-started">
                 Get started <ArrowUpRight />
               </Link>
             </Button>

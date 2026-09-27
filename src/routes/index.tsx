@@ -152,7 +152,7 @@ function Index() {
             height={1000}
             className="absolute inset-0 -z-20 h-full w-full object-cover object-[57%_center]"
           />
-          <div className="absolute inset-0 -z-10 bg-ink-soft/40 md:bg-ink-soft/25" />
+          <div className="absolute inset-0 -z-10 bg-ink-soft/65 md:bg-ink-soft/30" />
           <div className="mx-auto w-full max-w-[1440px] px-5 py-24 sm:px-8 lg:px-12">
             <div className="max-w-[650px]">
               <p className="mb-8 inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.17em] text-primary-foreground/90">

@@ -159,10 +159,17 @@
     color: var(--color-foreground);
     font-family: var(--font-sans);
   }
-  html { scroll-behavior: smooth; }
-  ::selection { background: var(--color-brand-soft); color: var(--color-foreground); }
+  html {
+    scroll-behavior: smooth;
+  }
+  ::selection {
+    background: var(--color-brand-soft);
+    color: var(--color-foreground);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  html { scroll-behavior: auto; }
+  html {
+    scroll-behavior: auto;
+  }
 }
